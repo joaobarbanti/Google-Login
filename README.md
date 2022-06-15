@@ -6,6 +6,8 @@
 
 <img align="center" src="7.png">
 <img align="center" src="6.png">
+<img align="center" src="8.png">
+
 
 ## 💻 Tecnologias Usadas
 <div style="display: inline_block"><br/>
