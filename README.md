@@ -4,7 +4,7 @@
 
 ## 🖥️ Algumas Telas Do Projeto
 
-<img align="center" src="5.png">
+<img align="center" src="7.png">
 <img align="center" src="6.png">
 
 ## 💻 Tecnologias Usadas
